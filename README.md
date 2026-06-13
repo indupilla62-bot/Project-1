@@ -1,4 +1,4 @@
-#Project Title 
+# Project Title 
 # VitaCore-Smart ML-Based Health Disease Prediction and Assistance System
 ## Project Overview
 VitaCore is an AI-powered healthcare platform designed to assist users in the early detection and management of chronic diseases. The system combines Machine Learning, Artificial Intelligence, and modern web technologies to provide accurate disease predictions, health monitoring, medication management, and intelligent healthcare assistance through a single integrated platform. �
